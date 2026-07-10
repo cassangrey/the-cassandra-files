@@ -1,4 +1,5 @@
 site_name: The Cassandra Files
+use_directory_urls: false
 
 plugins: []
 
