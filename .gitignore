@@ -1,0 +1,21 @@
+# MkDocs build output
+/site/
+
+# Temporary sheet exports and local checks
+_*.tmp.csv
+*.tmp.csv
+_evidence-check.tmp.csv
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local environment/editor noise
+.env
+.env.*
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

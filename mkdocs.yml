@@ -1,0 +1,20 @@
+site_name: The Cassandra Files
+
+plugins: []
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+
+nav:
+  - Rationale: index.md
+  - The record: institutional-timeline.md
+
+extra_css:
+  - stylesheets/extra.css
