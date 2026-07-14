@@ -48,7 +48,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>Aug 2022</td>
-    <td>After the child was prevented from returning to SWâ€™s care, the parties returned to court. SWâ€™s position was that the existing order had not been followed, but she says that issue was not properly advanced.<br><br>During those proceedings, SW says the father brought the child into the hearing by video link and kept her off camera while distressing allegations were made. The judge identified this as inappropriate and adjourned the hearing.<br><br>The father also argued that the child had mostly lived with his parents. SW says this presented the history misleadingly. Her account is that the child had spent substantial time with paternal grandparents because the father had previously been on supervised contact after a child-protection process involving domestic abuse in another relationship.<br><br>A section 16.4 guardianâ€™s report was produced during the proceedings. SW says the report was highly critical of her, relied on assertions of parental alienation and criticised her attempts to enforce the earlier order. She says there was no fact-finding hearing despite her objections.<br><br>SW says the proceedings led to supervised contact between her and the child. She says the father then relied on that order as if the court had found SW to be abusive or unsafe. SW disputes that account and says the order followed proceedings where the earlier removal of the child from her care was not properly addressed.<br><br>SW says this became important because the father continued to rely on that version of events until April 2025, including when speaking to police and later in court material.</td>
+    <td>After the child was prevented from returning to SW’s care, the parties returned to court. SW’s position was that the existing order had not been followed, but she says that issue was not properly advanced.<br><br>During those proceedings, SW says the father brought the child into the hearing by video link and kept her off camera while distressing allegations were made. The judge identified this as inappropriate and adjourned the hearing.<br><br>The father also argued that the child had mostly lived with his parents. SW says this presented the history misleadingly. Her account is that the child had spent substantial time with paternal grandparents because the father had previously been on supervised contact after a child-protection process involving domestic abuse in another relationship.<br><br>A section 16.4 guardian’s report was produced during the proceedings. SW says the report was highly critical of her, relied on assertions of parental alienation and criticised her attempts to enforce the earlier order. She says there was no fact-finding hearing despite her objections.<br><br>SW says the proceedings led to supervised contact between her and the child. She says the father then relied on that order as if the court had found SW to be abusive or unsafe. SW disputes that account and says the order followed proceedings where the earlier removal of the child from her care was not properly addressed.<br><br>SW says this became important because the father continued to rely on that version of events until April 2025, including when speaking to police and later in court material.</td>
     <td>Court-process material</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -60,7 +60,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>18 Nov 2022</td>
-    <td>On 18 November 2022, Childrenâ€™s Social Care confirmed in an email that SRB had not been removed from SWâ€™s care by social services.<br><br>The email also stated that, following later review, SRB should be in SWâ€™s care under the previous court order.</td>
+    <td>On 18 November 2022, Children’s Social Care confirmed in an email that SRB had not been removed from SW’s care by social services.<br><br>The email also stated that, following later review, SRB should be in SW’s care under the previous court order.</td>
     <td>Official correspondence<br><span class="evidence-links"><a href="evidence/2025-11-08-sally-forder-clarification-redacted.pdf" target="_blank" rel="noopener">Open redacted PDF</a></span></td>
     <td>Public</td>
   </tr>
@@ -84,7 +84,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>Late 2023 / 2024</td>
-    <td>SW says the CCTV was not shown to her before she entered her guilty plea. She says that, having later seen it, she believes it differs materially from the account put to her during police interview, including the allegation that she had â€œkicked her head inâ€.<br><br>SW says the footage was available before the plea but was not properly disclosed or explained to her. She later applied to vacate the guilty plea.</td>
+    <td>SW says the CCTV was not shown to her before she entered her guilty plea. She says that, having later seen it, she believes it differs materially from the account put to her during police interview, including the allegation that she had “kicked her head in”.<br><br>SW says the footage was available before the plea but was not properly disclosed or explained to her. She later applied to vacate the guilty plea.</td>
     <td>SW account</td>
     <td>Discussable on background</td>
   </tr>
@@ -144,7 +144,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>24 Apr 2025</td>
-    <td>On 24 April 2025, the Family Court discharged the previous Child Arrangements Order and made no new order.<br><br>No findings were made that SW had abused her child, caused safeguarding concerns, or should be prevented from having contact with her. SW retained parental responsibility and no order was made restricting contact between SW and her child.<br><br>SW says the father had already relied on earlier arrangements in different ways. At points, he said the child was living mainly with his parents. After the 2022 school incident, he described the child as living with him and later as though the court had ordered the child to live with him.<br><br>After the April 2025 order,the father began describing the outcome as though the child had been awarded to him because SW was abusive or unsafe. In later reports, he relied on that account to suggest SW was bitter about the child being â€œtaken awayâ€ and that this was the reason for her alleged harassment. The April 2025 order did not make those findings.</td>
+    <td>On 24 April 2025, the Family Court discharged the previous Child Arrangements Order and made no new order.<br><br>No findings were made that SW had abused her child, caused safeguarding concerns, or should be prevented from having contact with her. SW retained parental responsibility and no order was made restricting contact between SW and her child.<br><br>SW says the father had already relied on earlier arrangements in different ways. At points, he said the child was living mainly with his parents. After the 2022 school incident, he described the child as living with him and later as though the court had ordered the child to live with him.<br><br>After the April 2025 order,the father began describing the outcome as though the child had been awarded to him because SW was abusive or unsafe. In later reports, he relied on that account to suggest SW was bitter about the child being “taken away” and that this was the reason for her alleged harassment. The April 2025 order did not make those findings.</td>
     <td>Court-process material</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -222,7 +222,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>29 Aug 2025</td>
-    <td>On 29 August 2025, SW saw her former partner at an Aldi in Alvaston shortly after her own application for protection had not been treated as urgent. SW says she became frightened, hid in a friend's car and contacted police.<br><br>The police disclosure describes CCTV showing her former partner arriving at the shop â€œwith his childrenâ€ and going inside. SW says he has one child, and says the other people shown were not his children. The CCTV description does not establish that he knew SW was there or had followed her.<br><br>SW says this mattered because, two days earlier, her application for protection had not been treated as urgent after her former partner said he was too frightened of her to go into Alvaston, Allenton or Derby city centre. SW says she then saw him shopping at her local Aldi.<br><br>SW also says there was another Aldi approximately 0.1 miles from his home, around a three-minute walk away.</td>
+    <td>On 29 August 2025, SW saw her former partner at an Aldi in Alvaston shortly after her own application for protection had not been treated as urgent. SW says she became frightened, hid in a friend's car and contacted police.<br><br>The police disclosure describes CCTV showing her former partner arriving at the shop “with his children” and going inside. SW says he has one child, and says the other people shown were not his children. The CCTV description does not establish that he knew SW was there or had followed her.<br><br>SW says this mattered because, two days earlier, her application for protection had not been treated as urgent after her former partner said he was too frightened of her to go into Alvaston, Allenton or Derby city centre. SW says she then saw him shopping at her local Aldi.<br><br>SW also says there was another Aldi approximately 0.1 miles from his home, around a three-minute walk away.</td>
     <td>Police disclosure</td>
     <td>Discussable on background</td>
   </tr>
@@ -276,13 +276,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>8 Oct 2025</td>
-    <td>A Tom Tank comment dated 10-08 appears in SWâ€™s filtered comments under a post headed â€œMy stalker was caught using a fake profile ...â€.<br><br>The account wrote: â€œThis entire post is lies.â€ It said SW claimed to be frightened of her stalker â€œturning up everywhere she goesâ€ while posting her whereabouts on a public story, then added: â€œif her allegations were genuine, she would not do this.â€<br><br>The comment ended: â€œIâ€™m so glad I kept the evidence because the moment she inexplicably accused me of being her stalker I knew sheâ€™d do this. Get help [SW].â€</td>
+    <td>A Tom Tank comment dated 10-08 appears in SW’s filtered comments under a post headed “My stalker was caught using a fake profile ...”.<br><br>The account wrote: “This entire post is lies.” It said SW claimed to be frightened of her stalker “turning up everywhere she goes” while posting her whereabouts on a public story, then added: “if her allegations were genuine, she would not do this.”<br><br>The comment ended: “I’m so glad I kept the evidence because the moment she inexplicably accused me of being her stalker I knew she’d do this. Get help [SW].”</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
   <tr>
     <td>9 Oct 2025</td>
-    <td>The same screenshot shows a near-duplicate Tom Tank comment dated 10-09 under the same SW post.<br><br>The account again wrote: â€œThis entire post is lies,â€ said SW had posted her whereabouts despite saying she was frightened of a stalker, and said: â€œHer actions donâ€™t mirror her social media allegations.â€</td>
+    <td>The same screenshot shows a near-duplicate Tom Tank comment dated 10-09 under the same SW post.<br><br>The account again wrote: “This entire post is lies,” said SW had posted her whereabouts despite saying she was frightened of a stalker, and said: “Her actions don’t mirror her social media allegations.”</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
@@ -300,13 +300,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>22 Oct 2025</td>
-    <td>On 22 October 2025, Derbyshire Police PSD wrote to SW about intermediary support.<br><br>The letter said police had reviewed her complaints and a psychological assessment. It stated that intermediary support was necessary for any interaction between SW and police. The letter also said Derbyshire Police were aware that much of SWâ€™s dissatisfaction had arisen from the forceâ€™s failure to use an intermediary.</td>
+    <td>On 22 October 2025, Derbyshire Police PSD wrote to SW about intermediary support.<br><br>The letter said police had reviewed her complaints and a psychological assessment. It stated that intermediary support was necessary for any interaction between SW and police. The letter also said Derbyshire Police were aware that much of SW’s dissatisfaction had arisen from the force’s failure to use an intermediary.</td>
     <td>PSD complaint/response</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>23 Oct 2025</td>
-    <td>On 20 October 2025, SW spoke with PC Sandhu about how police were treating the report involving LW, the son of the victim in the ABH case. CG witnessed the call and recorded it.<br><br>SW complained that PC Sandhu said she had been instructed to treat the matter solely as a public-order offence, and that she â€œcould notâ€ consider contextual harassment or disability evidence. SW said PC Sandhu repeatedly framed it as â€œonly dealing with someone swearing in the streetâ€, despite SW saying the language targeted her psychiatric disability.<br><br>SW also complained that PC Sandhu refused to escalate the matter to an inspector, pressed restorative justice, and refused to link it with the related harassment report involving threatening social-media messages using the same language. Derbyshire Police PSD recorded the complaint as CO-01511-25 on 23 October 2025.<br><br>On 1 November 2025, SW published a TikTok video about this issue.</td>
+    <td>On 20 October 2025, SW spoke with PC Sandhu about how police were treating the report involving LW, the son of the victim in the ABH case. CG witnessed the call and recorded it.<br><br>SW complained that PC Sandhu said she had been instructed to treat the matter solely as a public-order offence, and that she “could not” consider contextual harassment or disability evidence. SW said PC Sandhu repeatedly framed it as “only dealing with someone swearing in the street”, despite SW saying the language targeted her psychiatric disability.<br><br>SW also complained that PC Sandhu refused to escalate the matter to an inspector, pressed restorative justice, and refused to link it with the related harassment report involving threatening social-media messages using the same language. Derbyshire Police PSD recorded the complaint as CO-01511-25 on 23 October 2025.<br><br>On 1 November 2025, SW published a TikTok video about this issue.</td>
     <td>PSD complaint/response</td>
     <td>Available on request</td>
   </tr>
@@ -330,7 +330,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>4 Nov 2025</td>
-    <td>On 4 November 2025, BW emailed SW in response to her urgent escalation email of 3 November.<br><br>BW said he had convened a meeting on 3 November with the Head of Crime, Head of Operations and PSD about the current position, future direction and departmental ownership of SWâ€™s cases, because of their complexity and the need to ensure the correct level of service.<br><br>He said all SWâ€™s cases would be allocated to a detective from PPU, with DIB as SIO. He said there would be a short handover from local officers to PPU so crimes could be updated, outstanding evidential lines of enquiry highlighted, and the new OIC could take the investigations forward.<br><br>BW also said he had requested a further DART risk review, noted further contact from the perpetrator that needed to be captured in a new PPN, suggested this should be completed with SW via an intermediary, and requested that the Force Crime Registrar review the online TikTok contact to ensure appropriate crimes were recorded.</td>
+    <td>On 4 November 2025, BW emailed SW in response to her urgent escalation email of 3 November.<br><br>BW said he had convened a meeting on 3 November with the Head of Crime, Head of Operations and PSD about the current position, future direction and departmental ownership of SW’s cases, because of their complexity and the need to ensure the correct level of service.<br><br>He said all SW’s cases would be allocated to a detective from PPU, with DIB as SIO. He said there would be a short handover from local officers to PPU so crimes could be updated, outstanding evidential lines of enquiry highlighted, and the new OIC could take the investigations forward.<br><br>BW also said he had requested a further DART risk review, noted further contact from the perpetrator that needed to be captured in a new PPN, suggested this should be completed with SW via an intermediary, and requested that the Force Crime Registrar review the online TikTok contact to ensure appropriate crimes were recorded.</td>
     <td>Police email/correspondence<br><span class="evidence-links"><a href="evidence/2025-11-04-police-escalation-bw-redacted.pdf" target="_blank" rel="noopener">Open redacted PDF</a></span></td>
     <td>Public</td>
   </tr>
@@ -342,7 +342,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>5 Nov 2025</td>
-    <td>On 5 November 2025, documents relating to a without-notice court order obtained by SWâ€™s former partner were posted through SWâ€™s letterbox. The person serving the documents said he was acting on behalf of SWâ€™s former partner.<br><br>A transcript of SWâ€™s call captures her becoming distressed when she realised what the documents were. Her concern was not simply that papers had been served. The day before, police had confirmed that matters involving her former partner had been escalated to senior officers. SW believed the court process had been used while that police context was unresolved, and that the court may have been misled.<br><br>SW later said police persistently treated her concern as if she was objecting to the physical service of papers, rather than the circumstances in which the application had been made and what that meant for the live reports involving her former partner.</td>
+    <td>On 5 November 2025, documents relating to a without-notice court order obtained by SW’s former partner were posted through SW’s letterbox. The person serving the documents said he was acting on behalf of SW’s former partner.<br><br>A transcript of SW’s call captures her becoming distressed when she realised what the documents were. Her concern was not simply that papers had been served. The day before, police had confirmed that matters involving her former partner had been escalated to senior officers. SW believed the court process had been used while that police context was unresolved, and that the court may have been misled.<br><br>SW later said police persistently treated her concern as if she was objecting to the physical service of papers, rather than the circumstances in which the application had been made and what that meant for the live reports involving her former partner.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -354,7 +354,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>7 Nov 2025</td>
-    <td>At the first hearing after the without-notice order, the matter was treated as too complex to resolve immediately. The two applications were to be consolidated and SW was given time to submit a counter-application.<br><br>SW asked for clarification because she feared police would apply the order broadly against her. CG was present and recalls the judge saying words to the effect of, â€œthe police wouldnâ€™t do that,â€ and refusing to clarify or vary the order.</td>
+    <td>At the first hearing after the without-notice order, the matter was treated as too complex to resolve immediately. The two applications were to be consolidated and SW was given time to submit a counter-application.<br><br>SW asked for clarification because she feared police would apply the order broadly against her. CG was present and recalls the judge saying words to the effect of, “the police wouldn’t do that,” and refusing to clarify or vary the order.</td>
     <td>CG witnessed directly</td>
     <td>Discussable on background</td>
   </tr>
@@ -366,25 +366,25 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>11 Nov 2025</td>
-    <td>On 11 November 2025, SWâ€™s former partner reported a number of alleged offences arising from SWâ€™s public posts.<br><br>The police summary records him saying that SW was not allowed to post about him, the court or the child. The report also referred to a public video SW made after her cat died, in which SW said: â€œI didnâ€™t get to spend the last day with my cat because my stalker has started civil proceedings against me....Iâ€™ve lost everything because of this psycho.â€<br><br>SW says this was an example of her former partner treating generalised or anonymised public speech as if it was direct contact or a named post about him. He relied on terms such as â€œmy stalkerâ€ and â€œmy exâ€ as though they must mean him, while also maintaining that the hostile accounts SW reported were not him.<br><br>SW says the records she has seen do not appear to grapple with that contradiction. By this stage, several people with grievances against SW, including accounts presenting as members of his family, were appearing under her content, naming SW, naming the child, sharing private details relating to the ongoing dispute and responding at a rate SW says could only be achieved through constant monitoring of her account.</td>
+    <td>On 11 November 2025, SW’s former partner reported a number of alleged offences arising from SW’s public posts.<br><br>The police summary records him saying that SW was not allowed to post about him, the court or the child. The report also referred to a public video SW made after her cat died, in which SW said: “I didn’t get to spend the last day with my cat because my stalker has started civil proceedings against me....I’ve lost everything because of this psycho.”<br><br>SW says this was an example of her former partner treating generalised or anonymised public speech as if it was direct contact or a named post about him. He relied on terms such as “my stalker” and “my ex” as though they must mean him, while also maintaining that the hostile accounts SW reported were not him.<br><br>SW says the records she has seen do not appear to grapple with that contradiction. By this stage, several people with grievances against SW, including accounts presenting as members of his family, were appearing under her content, naming SW, naming the child, sharing private details relating to the ongoing dispute and responding at a rate SW says could only be achieved through constant monitoring of her account.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
   <tr>
     <td>Before 11 Nov 2025 / date TBC</td>
-    <td>Before the later cat video was used against SW, she had already raised concerns that her cat was repeatedly coming home with different collars and injuries.<br><br>The SAR/police process refers to this being raised in a community liaison context at the Guinness Trust, after which a lender cam was put up. This matters because it gives a separate welfare and safety reason for why a camera existed before the later public video about Charlieâ€™s death was used against SW.</td>
+    <td>Before the later cat video was used against SW, she had already raised concerns that her cat was repeatedly coming home with different collars and injuries.<br><br>The SAR/police process refers to this being raised in a community liaison context at the Guinness Trust, after which a lender cam was put up. This matters because it gives a separate welfare and safety reason for why a camera existed before the later public video about Charlie’s death was used against SW.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
   <tr>
     <td>11 Nov 2025</td>
-    <td>On 11 November 2025, SW posted a TikTok video after another injury her cat Charlie died.<br><br>Police disclosure later shows that CPS raised a date problem with earlier material. After that, police went back to SWâ€™s former partner for further material, and the 11 November cat video became part of the later case against SW.<br><br>The current material does not make clear whether the cat video was part of the first report on 11 November or added later after the date problem was identified.</td>
+    <td>On 11 November 2025, SW posted a TikTok video after another injury her cat Charlie died.<br><br>Police disclosure later shows that CPS raised a date problem with earlier material. After that, police went back to SW’s former partner for further material, and the 11 November cat video became part of the later case against SW.<br><br>The current material does not make clear whether the cat video was part of the first report on 11 November or added later after the date problem was identified.</td>
     <td>Police disclosure<br><span class="evidence-links"><a href="evidence/2025-11-08-sianne-crying-about-cat-video.mp4" target="_blank" rel="noopener">Open local video copy</a></span></td>
     <td>Held; legally restricted</td>
   </tr>
   <tr>
     <td>15 Nov 2025</td>
-    <td>On 15 November 2025, a police update stated that there appeared to be no harassment in SWâ€™s 999 report, but that the report itself might be treated as a possible offence against SW.<br><br>The same occurrence was later sent for cancellation.</td>
+    <td>On 15 November 2025, a police update stated that there appeared to be no harassment in SW’s 999 report, but that the report itself might be treated as a possible offence against SW.<br><br>The same occurrence was later sent for cancellation.</td>
     <td>SAR record</td>
     <td>Available on request</td>
   </tr>
@@ -396,13 +396,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>16 Nov 2025</td>
-    <td>Police disclosure records that SWâ€™s former partner uploaded 25 items to an Axon evidence link before the case was assigned and before SW was arrested.</td>
+    <td>Police disclosure records that SW’s former partner uploaded 25 items to an Axon evidence link before the case was assigned and before SW was arrested.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
   <tr>
     <td>17 Nov 2025</td>
-    <td>On 17 November 2025, a supervisor reviewing the case recorded that SW was both a suspect in local-policing cases and a RASSO victim managed by DSI Katie Angius.<br><br>The same review said DSI Angius â€œwould need to be updatedâ€, assigned the case to PC Jelfs, and said the officer should decide how to deal with SW â€œrobustlyâ€ in the best interests of SWâ€™s former partner and the associated investigation.<br><br>The entry does not explain why an officer linked to SWâ€™s RASSO-victim management was being updated in a case treating her former partner as the protected complainant.</td>
+    <td>On 17 November 2025, a supervisor reviewing the case recorded that SW was both a suspect in local-policing cases and a RASSO victim managed by DSI Katie Angius.<br><br>The same review said DSI Angius “would need to be updated”, assigned the case to PC Jelfs, and said the officer should decide how to deal with SW “robustly” in the best interests of SW’s former partner and the associated investigation.<br><br>The entry does not explain why an officer linked to SW’s RASSO-victim management was being updated in a case treating her former partner as the protected complainant.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -414,7 +414,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>18 Nov 2025</td>
-    <td>On 18 November 2025, PC Jelfs recorded generating exhibits from screenshots and videos after SWâ€™s former partner reported alleged offences arising from SWâ€™s public posts.<br><br>The exhibit list included TikTok screenshots and TikTok videos dated 30 October and 1 November. Police disclosure records that the TikTok videos and a YouTube video were uploaded on Evidence.com.</td>
+    <td>On 18 November 2025, PC Jelfs recorded generating exhibits from screenshots and videos after SW’s former partner reported alleged offences arising from SW’s public posts.<br><br>The exhibit list included TikTok screenshots and TikTok videos dated 30 October and 1 November. Police disclosure records that the TikTok videos and a YouTube video were uploaded on Evidence.com.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -426,13 +426,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>20 Nov 2025</td>
-    <td>On 20 November 2025, SW was arrested after forced entry. SW says officers came into her bedroom while she was vulnerable in bed. A male officer is heard on video entering the room, pulling bedding away and saying words to the effect of, â€œhope you're not naked.â€<br><br>SW says she was restrained, removed in a wheelchair, refused key support and medication, and interviewed without an intermediary. The screams from the arrest and part of the entry into the property are visible in a public video.</td>
+    <td>On 20 November 2025, SW was arrested after forced entry. SW says officers came into her bedroom while she was vulnerable in bed. A male officer is heard on video entering the room, pulling bedding away and saying words to the effect of, “hope you're not naked.”<br><br>SW says she was restrained, removed in a wheelchair, refused key support and medication, and interviewed without an intermediary. The screams from the arrest and part of the entry into the property are visible in a public video.</td>
     <td>SW account</td>
     <td>Discussable on background</td>
   </tr>
   <tr>
     <td>20 Nov 2025</td>
-    <td>During the 20 November 2025 arrest, police seized SWâ€™s electronic devices. SW refused to give police access to the devices.<br><br>SW says the seizure left her unable to access much of the evidence needed for the live court process and related police matters. She says she then had to rely heavily on CG to help prepare her case, seek representation and preserve material.</td>
+    <td>During the 20 November 2025 arrest, police seized SW’s electronic devices. SW refused to give police access to the devices.<br><br>SW says the seizure left her unable to access much of the evidence needed for the live court process and related police matters. She says she then had to rely heavily on CG to help prepare her case, seek representation and preserve material.</td>
     <td>Police disclosure</td>
     <td>Discussable on background</td>
   </tr>
@@ -450,13 +450,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>21 Nov 2025</td>
-    <td>On 21 November 2025, police recorded that CPS did not accept the case as ready for immediate charge.<br><br>The CPS email noted there was no certificate of service, that the conduct described by SWâ€™s former partner appeared to stop before court papers were served, and that further evidence was needed.</td>
+    <td>On 21 November 2025, police recorded that CPS did not accept the case as ready for immediate charge.<br><br>The CPS email noted there was no certificate of service, that the conduct described by SW’s former partner appeared to stop before court papers were served, and that further evidence was needed.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
   <tr>
     <td>22 Nov 2025</td>
-    <td>On 22 November 2025, PC Jelfs recorded speaking to SWâ€™s former partner and explaining that he would obtain a further statement to clarify the period from 5 to 7 November.</td>
+    <td>On 22 November 2025, PC Jelfs recorded speaking to SW’s former partner and explaining that he would obtain a further statement to clarify the period from 5 to 7 November.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -480,7 +480,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>3 Dec 2025</td>
-    <td>On 3 December 2025, DSI Katie Angius recorded SWâ€™s concern that the court order had been obtained using false information.<br><br>The police update records SW saying the order was â€œnot legalâ€, that officers should have checked it, and that her former partner had told the court he had been NFAâ€™d for all investigations with no substantial evidence. DSI Angius recorded that if he had obtained an order through false information, â€œthat is not okay and does need addressingâ€.<br><br>In the same update, DSI Angius recorded that she did not know what more she could do with SW or â€œhow communication can be now facilitatedâ€. She asked whether there should be a plan of action or meeting about how police would deal with SW, the investigations and communication with her. She also recorded that she did not plan to speak to SW again before the face-to-face meeting, so SWâ€™s concerns would need to be addressed elsewhere.</td>
+    <td>On 3 December 2025, DSI Katie Angius recorded SW’s concern that the court order had been obtained using false information.<br><br>The police update records SW saying the order was “not legal”, that officers should have checked it, and that her former partner had told the court he had been NFA’d for all investigations with no substantial evidence. DSI Angius recorded that if he had obtained an order through false information, “that is not okay and does need addressing”.<br><br>In the same update, DSI Angius recorded that she did not know what more she could do with SW or “how communication can be now facilitated”. She asked whether there should be a plan of action or meeting about how police would deal with SW, the investigations and communication with her. She also recorded that she did not plan to speak to SW again before the face-to-face meeting, so SW’s concerns would need to be addressed elsewhere.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -498,7 +498,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>13 Dec 2025</td>
-    <td>On 13 December 2025, PC Jelfs recorded that the 11 November cat video had been uploaded as further evidence and treated as part of the case against SW.<br><br>PC Jelfs emailed SWâ€™s former partner about obtaining a further statement to cover the cat video.</td>
+    <td>On 13 December 2025, PC Jelfs recorded that the 11 November cat video had been uploaded as further evidence and treated as part of the case against SW.<br><br>PC Jelfs emailed SW’s former partner about obtaining a further statement to cover the cat video.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -516,13 +516,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>20 Dec 2025</td>
-    <td>On 20 December 2025, SWâ€™s former partner contacted police asking whether SWâ€™s court statement could be treated as an offence because of allegations made to official bodies.<br><br>The contact related to SWâ€™s own court application and supporting material, while the court proceedings were live.</td>
+    <td>On 20 December 2025, SW’s former partner contacted police asking whether SW’s court statement could be treated as an offence because of allegations made to official bodies.<br><br>The contact related to SW’s own court application and supporting material, while the court proceedings were live.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
   <tr>
     <td>23 Dec 2025</td>
-    <td>On 23 December 2025, PC Jelfs recorded obtaining a further telephone statement from SWâ€™s former partner covering the potential offence.<br><br>By this point, SWâ€™s former partner had had an opportunity to read SWâ€™s own court application and response material. PC Jelfs told him the case would be sent to CPS and that he would update him once it had been sent.</td>
+    <td>On 23 December 2025, PC Jelfs recorded obtaining a further telephone statement from SW’s former partner covering the potential offence.<br><br>By this point, SW’s former partner had had an opportunity to read SW’s own court application and response material. PC Jelfs told him the case would be sent to CPS and that he would update him once it had been sent.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -534,7 +534,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>26-27 Dec 2025</td>
-    <td>A Tom Tank comment captured under SWâ€™s content said: â€œThis comment will be deleted because [SW] canâ€™t allow anything that doesnâ€™t suit her false narrative.â€<br><br>A second Tom Tank comment said: â€œYou cut your own hair off and got your friend to fix it in a premeditated stunt because youâ€™re desperate to be famous.â€ It described SWâ€™s content as â€œthe online charade of false allegations and hate towards innocent peopleâ€ and said: â€œRoll on 9th January when if there is any justice youâ€™ll get jailed.â€<br><br>The screenshot shows the underlying SW post dated 27 December 2025 at 13:10 and both Tom Tank comments marked â€œ20hâ€, so the comment date is treated as 26-27 December rather than a precise timestamp.</td>
+    <td>A Tom Tank comment captured under SW’s content said: “This comment will be deleted because [SW] can’t allow anything that doesn’t suit her false narrative.”<br><br>A second Tom Tank comment said: “You cut your own hair off and got your friend to fix it in a premeditated stunt because you’re desperate to be famous.” It described SW’s content as “the online charade of false allegations and hate towards innocent people” and said: “Roll on 9th January when if there is any justice you’ll get jailed.”<br><br>The screenshot shows the underlying SW post dated 27 December 2025 at 13:10 and both Tom Tank comments marked “20h”, so the comment date is treated as 26-27 December rather than a precise timestamp.</td>
     <td>Police disclosure</td>
     <td>Public</td>
   </tr>
@@ -612,7 +612,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>21 Jan 2026</td>
-    <td>On 21 January 2026, PC Jelfs recorded telling SWâ€™s former partner he had viewed footage and would speak to his sergeant.<br><br>In the same update, PC Jelfs said CPS had received and accepted the other file and that a lawyer would review it within the month.</td>
+    <td>On 21 January 2026, PC Jelfs recorded telling SW’s former partner he had viewed footage and would speak to his sergeant.<br><br>In the same update, PC Jelfs said CPS had received and accepted the other file and that a lawyer would review it within the month.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -684,7 +684,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>2 Mar 2026</td>
-    <td>On 2 March 2026, PC Jelfs emailed SWâ€™s former partner about whether a further reported post could be pursued.<br><br>PC Jelfs also said CPS had asked whether he supported a restraining order and what conditions he would benefit from.</td>
+    <td>On 2 March 2026, PC Jelfs emailed SW’s former partner about whether a further reported post could be pursued.<br><br>PC Jelfs also said CPS had asked whether he supported a restraining order and what conditions he would benefit from.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -702,13 +702,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>18 Mar 2026</td>
-    <td>The Bobby Bottle account has a saved TikTok photo post titled â€œSisi Posts Bollocks Onlineâ€.<br><br>The saved capture supports the 18 March 2026 date. I have not yet extracted reliable on-screen wording beyond the title.</td>
+    <td>The Bobby Bottle account has a saved TikTok photo post titled “Sisi Posts Bollocks Online”.<br><br>The saved capture supports the 18 March 2026 date. I have not yet extracted reliable on-screen wording beyond the title.</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
   <tr>
     <td>19 Mar 2026</td>
-    <td>The Bobby Bottle account posted a saved item using SW's wheelchair/disability wording: â€œItâ€™s been a pretty regular occurrence that Iâ€™ve needed to use a wheelchairâ€.<br><br>The saved screenshot uses SWâ€™s own disability wording as the visible post text.</td>
+    <td>The Bobby Bottle account posted a saved item using SW's wheelchair/disability wording: “It’s been a pretty regular occurrence that I’ve needed to use a wheelchair”.<br><br>The saved screenshot uses SW’s own disability wording as the visible post text.</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
@@ -720,25 +720,25 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>21 Mar 2026</td>
-    <td>The Bobby Bottle account posted a video saying: â€œWhen Sisi is posting content all over the internet about having Chronic Fatigue Syndrome (M.E) all week, then the weekend hitsâ€.<br><br>The saved HTML shows the caption with the hashtag â€œ#benefitsâ€ and the sound â€œWhen the Going Gets Tough, The Tough Get Going - Billy Oceanâ€.</td>
+    <td>The Bobby Bottle account posted a video saying: “When Sisi is posting content all over the internet about having Chronic Fatigue Syndrome (M.E) all week, then the weekend hits”.<br><br>The saved HTML shows the caption with the hashtag “#benefits” and the sound “When the Going Gets Tough, The Tough Get Going - Billy Ocean”.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@bobby.bottle0/video/7619620843676601622" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>22 Mar 2026</td>
-    <td>The Bobby Bottle account posted a video with the caption: â€œThe police broke in and beat the shit out of meâ€.<br><br>The caption then said: â€œStill no evidence of any injuries though @Sisi ðŸ¤¥â€.</td>
+    <td>The Bobby Bottle account posted a video with the caption: “The police broke in and beat the shit out of me”.<br><br>The caption then said: “Still no evidence of any injuries though @Sisi 🤥”.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@bobby.bottle0/video/7619989959138610454" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>22 Mar 2026</td>
-    <td>A saved Bobby Bottle screenshot says: â€œHi Iâ€™m Sisi Dominique. I post bollocks online and then delete any comment that challenge my false narrative. This way, I can continue making up lies about innocent people to gain an online platform at their expense.â€<br><br>A visible comment underneath from simmons209 reads: â€œTommy tank?â€</td>
+    <td>A saved Bobby Bottle screenshot says: “Hi I’m Sisi Dominique. I post bollocks online and then delete any comment that challenge my false narrative. This way, I can continue making up lies about innocent people to gain an online platform at their expense.”<br><br>A visible comment underneath from simmons209 reads: “Tommy tank?”</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
   <tr>
     <td>22 Mar 2026</td>
-    <td>The Bobby Bottle account posted a screenshot headed: â€œKim Jong Un aka @Sisi has deleted this important comment that provides a balanced discussion regarding her content.â€<br><br>The captured comment quoted SWâ€™s description of ME/CFS: â€œIt can be basic tasks like showering, having a conversation, or having to think too muchâ€, then added: â€œalso going on marches, nights out, walks up the Heights of Abraham, constant prepared content creation and false allegations against innocent people.â€<br><br>It ended: â€œSurely nobody can view [SW]â€™s content and genuinely believe she has the condition she is describing.â€</td>
+    <td>The Bobby Bottle account posted a screenshot headed: “Kim Jong Un aka @Sisi has deleted this important comment that provides a balanced discussion regarding her content.”<br><br>The captured comment quoted SW’s description of ME/CFS: “It can be basic tasks like showering, having a conversation, or having to think too much”, then added: “also going on marches, nights out, walks up the Heights of Abraham, constant prepared content creation and false allegations against innocent people.”<br><br>It ended: “Surely nobody can view [SW]’s content and genuinely believe she has the condition she is describing.”</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
@@ -768,7 +768,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>2 Apr 2026</td>
-    <td>On 2 April 2026, SW was charged over a TikTok video about the death of her cat Charlie.<br><br>SWâ€™s point is that the named subject in the comments was Charlie, not her former partner.</td>
+    <td>On 2 April 2026, SW was charged over a TikTok video about the death of her cat Charlie.<br><br>SW’s point is that the named subject in the comments was Charlie, not her former partner.</td>
     <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
@@ -798,7 +798,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>18 Apr 2026</td>
-    <td>The SunnyDaze account posted a video titled â€œSo Many Inconsistenciesâ€. The local transcript contains SW speaking about Derbyshire Police, her brother, a malicious report, family impact, legal fees and funeral money. This was part of the first #SurvivingSisi sequence captured in the April SunnyDaze material.</td>
+    <td>The SunnyDaze account posted a video titled “So Many Inconsistencies”. The local transcript contains SW speaking about Derbyshire Police, her brother, a malicious report, family impact, legal fees and funeral money. This was part of the first #SurvivingSisi sequence captured in the April SunnyDaze material.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7629996235549723926" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
@@ -810,25 +810,25 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>18 Apr 2026</td>
-    <td>The SunnyDaze account posted a video titled â€œNobody Said Daughter Commentâ€. The transcript contains private voice-note material in which SW discusses her daughter, family conflict and psychological abuse. CG records this as one of the most distressing posts because it published private voice notes obtained during HCPâ€™s friendship with SW and removed the surrounding context.</td>
+    <td>The SunnyDaze account posted a video titled “Nobody Said Daughter Comment”. The transcript contains private voice-note material in which SW discusses her daughter, family conflict and psychological abuse. CG records this as one of the most distressing posts because it published private voice notes obtained during HCP’s friendship with SW and removed the surrounding context.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7630209690928024854" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>19 Apr 2026</td>
-    <td>The SunnyDaze account posted a video titled â€œUndercover Or Uncoveredâ€. The transcript again refers to the BBC and a possible wider story involving Derbyshire Constabulary.</td>
+    <td>The SunnyDaze account posted a video titled “Undercover Or Uncovered”. The transcript again refers to the BBC and a possible wider story involving Derbyshire Constabulary.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7630259856171158806" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>19 Apr 2026</td>
-    <td>The SunnyDaze account posted a follow-up to the â€œNobody Said Daughter Commentâ€ post. The captured material from 19 April records another post involving voice-note material between SW and HCP.</td>
+    <td>The SunnyDaze account posted a follow-up to the “Nobody Said Daughter Comment” post. The captured material from 19 April records another post involving voice-note material between SW and HCP.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7630429885114174742" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>19 Apr 2026</td>
-    <td>The SunnyDaze account posted or reposted material titled â€œDr Ramani Gaslighting Vs Lyingâ€. The transcript explains a distinction between lying and gaslighting, including the idea that a gaslighter uses evidence to portray the other person as the problem.</td>
+    <td>The SunnyDaze account posted or reposted material titled “Dr Ramani Gaslighting Vs Lying”. The transcript explains a distinction between lying and gaslighting, including the idea that a gaslighter uses evidence to portray the other person as the problem.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7630446608928296214" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Discussable on background</td>
   </tr>
@@ -840,19 +840,19 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>20 Apr 2026</td>
-    <td>The SunnyDaze account posted a video titled â€œPropaganda Police Officerâ€. The transcript contains SW speaking about her daughter being taken away, future court cases, alleged false claims, police body-worn footage, arrest, reasonable adjustments and deterioration in ME/CFS. Saved captures around this period also record CG being tagged by SunnyDaze along with AV, TMB and others.</td>
+    <td>The SunnyDaze account posted a video titled “Propaganda Police Officer”. The transcript contains SW speaking about her daughter being taken away, future court cases, alleged false claims, police body-worn footage, arrest, reasonable adjustments and deterioration in ME/CFS. Saved captures around this period also record CG being tagged by SunnyDaze along with AV, TMB and others.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7630920204414979350" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>20 Apr 2026</td>
-    <td>The Bobby Bottle account posted a video captioned: â€œI'm [SW] and I need to do something BIG to get likes on social media and grow myself a platform as I'm desperate to be famous.â€<br><br>The caption continued: â€œI don't care who I hurt with my lies in the process, I just need an idea to get myself noticed.... I know! BINGO!â€</td>
+    <td>The Bobby Bottle account posted a video captioned: “I'm [SW] and I need to do something BIG to get likes on social media and grow myself a platform as I'm desperate to be famous.”<br><br>The caption continued: “I don't care who I hurt with my lies in the process, I just need an idea to get myself noticed.... I know! BINGO!”</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@bobby.bottle0/video/7630937839622032662" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>20 Apr 2026</td>
-    <td>The Bobby Bottle account posted a video captioned: â€œIâ€™m @Sisi and I am NOT marked safe from Derbyshire Constabularyâ€.<br><br>The saved HTML shows a SunnyDaze comment underneath saying: â€œOmg that scream ... its so accurateâ€. The exchange links the Bobby Bottle and SunnyDaze accounts in the visible public comments.</td>
+    <td>The Bobby Bottle account posted a video captioned: “I’m @Sisi and I am NOT marked safe from Derbyshire Constabulary”.<br><br>The saved HTML shows a SunnyDaze comment underneath saying: “Omg that scream ... its so accurate”. The exchange links the Bobby Bottle and SunnyDaze accounts in the visible public comments.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@bobby.bottle0/video/7630948234046786838" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
@@ -864,13 +864,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>21-24 Apr 2026</td>
-    <td>On 21 April 2026, CG emailed DI Barker and DSI Angius after SWâ€™s life-threatening crisis. CG wrote as SWâ€™s McKenzie Friend and communications advocate, referred to Derbyshire Policeâ€™s earlier written position that intermediary support was necessary for police contact with SW, and asked police to stay enforcement action or interviews until SW was medically fit and an intermediary was present.<br><br>DI Barker replied on 24 April 2026. He said he had copied the email onto the crime occurrence, but could not verify CGâ€™s status and would not disclose information to her.</td>
+    <td>On 21 April 2026, CG emailed DI Barker and DSI Angius after SW’s life-threatening crisis. CG wrote as SW’s McKenzie Friend and communications advocate, referred to Derbyshire Police’s earlier written position that intermediary support was necessary for police contact with SW, and asked police to stay enforcement action or interviews until SW was medically fit and an intermediary was present.<br><br>DI Barker replied on 24 April 2026. He said he had copied the email onto the crime occurrence, but could not verify CG’s status and would not disclose information to her.</td>
     <td>Police email/correspondence</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>23 Apr 2026</td>
-    <td>The SunnyDaze account posted a video titled â€œIntersectional Uprising Comment Threadâ€. The saved screenshots show comments and tagging around IU and AV. CG records this as the point at which AV appeared to be drawn into contact with SunnyDaze/HCP.</td>
+    <td>The SunnyDaze account posted a video titled “Intersectional Uprising Comment Thread”. The saved screenshots show comments and tagging around IU and AV. CG records this as the point at which AV appeared to be drawn into contact with SunnyDaze/HCP.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7632022343791152407" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
@@ -888,25 +888,25 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>25 Apr 2026</td>
-    <td>The SunnyDaze account posted a video titled â€œComments Not Visible To Followersâ€. The transcript says there are 70 people operating under the name Intersectional Uprising across 23 cities and refers to reports, social-media accounts and a promise to stand by SW.</td>
+    <td>The SunnyDaze account posted a video titled “Comments Not Visible To Followers”. The transcript says there are 70 people operating under the name Intersectional Uprising across 23 cities and refers to reports, social-media accounts and a promise to stand by SW.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7632476299772038422" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>25 Apr 2026</td>
-    <td>The SunnyDaze account posted a video titled â€œProblematic Jury Nullificationâ€. Screenshots from 26 April preserve video frames, and the saved TikTok ID supports the 25 April post date.</td>
+    <td>The SunnyDaze account posted a video titled “Problematic Jury Nullification”. Screenshots from 26 April preserve video frames, and the saved TikTok ID supports the 25 April post date.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7632786901149175062" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>27 Apr 2026</td>
-    <td>On 27 April 2026, the BarnacleBuster26 account published a photo post saying: â€œCOMING SOONâ€, â€œWe will all see justiceâ€ and â€œThe truth WILL come out soonâ€¦â€¦keep following for updatesâ€.<br><br>This is the first located BarnacleBuster26 post in the saved captures. It appeared days after SunnyDaze had begun posting about SW and tagging people around IU and AV, and before later BarnacleBuster posts moved into direct allegations about SW, Purple Panthers and people supporting her.</td>
+    <td>On 27 April 2026, the BarnacleBuster26 account published a photo post saying: “COMING SOON”, “We will all see justice” and “The truth WILL come out soon……keep following for updates”.<br><br>This is the first located BarnacleBuster26 post in the saved captures. It appeared days after SunnyDaze had begun posting about SW and tagging people around IU and AV, and before later BarnacleBuster posts moved into direct allegations about SW, Purple Panthers and people supporting her.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@barnaclebuster26/photo/7633492393366474006" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>27 Apr 2026</td>
-    <td>A screenshot dated 27 April 2026 shows Bobby Bottle commenting: â€œFollow @Sunny~Daze *â€.<br><br>The screenshot context includes Derbyshire Constabulary-related material and a saved comment thread. It is the located capture where Bobby Bottle visibly points viewers to the SunnyDaze account.</td>
+    <td>A screenshot dated 27 April 2026 shows Bobby Bottle commenting: “Follow @Sunny~Daze *”.<br><br>The screenshot context includes Derbyshire Constabulary-related material and a saved comment thread. It is the located capture where Bobby Bottle visibly points viewers to the SunnyDaze account.</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
@@ -930,7 +930,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>28 Apr 2026</td>
-    <td>The SunnyDaze account posted or reposted a video titled â€œBad Person Repostâ€. The saved HTML text says: â€œI think the hardest part of all of this is how convincingly good some bad people can make themselves seem,â€ and warns people to be careful what they believe online.<br><br>The local folder was captured on 12 May, but the saved post date shows the post itself was from 28 April.</td>
+    <td>The SunnyDaze account posted or reposted a video titled “Bad Person Repost”. The saved HTML text says: “I think the hardest part of all of this is how convincingly good some bad people can make themselves seem,” and warns people to be careful what they believe online.<br><br>The local folder was captured on 12 May, but the saved post date shows the post itself was from 28 April.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7633894296667639062" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
@@ -942,7 +942,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>6 May 2026</td>
-    <td>After SW reported HCP and the SunnyDaze account, police arranged a video interview. SW and CG waited for the interview, but it did not take place.<br><br>SW says she repeatedly asked for a formal evidential statement and an Axon or other secure evidence-upload link, but this was not provided. By the time DI Hopkins emailed on 8 June asking for details in relation to occurrence 26000286962, SWâ€™s phone had already been seized after the 19 May arrest, and SW says police still had not taken or reviewed the evidence she had been trying to provide.</td>
+    <td>After SW reported HCP and the SunnyDaze account, police arranged a video interview. SW and CG waited for the interview, but it did not take place.<br><br>SW says she repeatedly asked for a formal evidential statement and an Axon or other secure evidence-upload link, but this was not provided. By the time DI Hopkins emailed on 8 June asking for details in relation to occurrence 26000286962, SW’s phone had already been seized after the 19 May arrest, and SW says police still had not taken or reviewed the evidence she had been trying to provide.</td>
     <td>CG witnessed directly</td>
     <td>Public</td>
   </tr>
@@ -954,25 +954,25 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>Early May 2026 / exact date TBC</td>
-    <td>During May 2026, DI Hopkins was trying to get letters delivered or read to SW which he described as safeguarding letters.<br><br>SW says she had already warned Hopkins by email that direct police contact at her home was itself a safeguarding risk and asked for the letters to be given to her carer instead. CG later escalated that officers attended the carerâ€™s address but refused to hand the letters over.<br><br>CGâ€™s later escalation says PC Simpkin was captured on door-cam footage saying police would need to attend with armed response to enter SWâ€™s home if she did not answer the door.</td>
+    <td>During May 2026, DI Hopkins was trying to get letters delivered or read to SW which he described as safeguarding letters.<br><br>SW says she had already warned Hopkins by email that direct police contact at her home was itself a safeguarding risk and asked for the letters to be given to her carer instead. CG later escalated that officers attended the carer’s address but refused to hand the letters over.<br><br>CG’s later escalation says PC Simpkin was captured on door-cam footage saying police would need to attend with armed response to enter SW’s home if she did not answer the door.</td>
     <td>Police email/correspondence</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>8 May 2026</td>
-    <td>On 8 May 2026, AV publicly stated that she was not working with SW and described her involvement as â€œonly organising one protestâ€.<br><br>CG challenged this because she believed it minimised or reversed AVâ€™s earlier position, and feared the public change could be used to undermine SW.</td>
+    <td>On 8 May 2026, AV publicly stated that she was not working with SW and described her involvement as “only organising one protest”.<br><br>CG challenged this because she believed it minimised or reversed AV’s earlier position, and feared the public change could be used to undermine SW.</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
   <tr>
     <td>9 May 2026</td>
-    <td>On 9 May 2026, CG captured BarnacleBuster26 viewing her account.<br><br>This came after CG had been tagged in material involving SW, Purple Panthers and people connected to CGâ€™s committee, and after AV had publicly distanced herself from SW. CG records this as account-monitoring evidence only, not proof of who operated the account.</td>
+    <td>On 9 May 2026, CG captured BarnacleBuster26 viewing her account.<br><br>This came after CG had been tagged in material involving SW, Purple Panthers and people connected to CG’s committee, and after AV had publicly distanced herself from SW. CG records this as account-monitoring evidence only, not proof of who operated the account.</td>
     <td>Public post/video</td>
     <td>Public</td>
   </tr>
   <tr>
     <td>12 May 2026</td>
-    <td>On 12 May 2026, the SunnyDaze account posted a video titled â€œAbusers Be Like True Victimâ€.<br><br>The post formed part of the continuing SunnyDaze sequence around SW, using language that framed the subject as an abuser presenting as a victim.</td>
+    <td>On 12 May 2026, the SunnyDaze account posted a video titled “Abusers Be Like True Victim”.<br><br>The post formed part of the continuing SunnyDaze sequence around SW, using language that framed the subject as an abuser presenting as a victim.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@sunny.daze184/video/7639079064694721814" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Public</td>
   </tr>
@@ -984,13 +984,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>12 May 2026</td>
-    <td>On 12 May 2026, SunnyDaze published further material about SW and TJB.<br><br>This was part of the same online sequence in which accounts were linking SWâ€™s dispute into CGâ€™s wider grassroots organisation and support network.</td>
+    <td>On 12 May 2026, SunnyDaze published further material about SW and TJB.<br><br>This was part of the same online sequence in which accounts were linking SW’s dispute into CG’s wider grassroots organisation and support network.</td>
     <td>Public post/video</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>12 May 2026</td>
-    <td>Screenshots from 12 May 2026 show AV referring to â€œSisiâ€™s friends TELLING me what to doâ€ and saying, â€œAfter the way Tor spoke to me the other day Iâ€™m literally gobsmackedâ€¦â€ Other messages refer to â€œSisi or Torâ€ and describe CGâ€™s response in abusive terms.<br><br>CG records the spelling â€œTorâ€ because the same spelling later appeared in a BarnacleBuster26 post naming CG. CG says this was significant because her challenge to AV appeared to be reframed as abusive or improper, when CGâ€™s concern was that AVâ€™s public position had changed in a way that could be used against SW.</td>
+    <td>Screenshots from 12 May 2026 show AV referring to “Sisi’s friends TELLING me what to do” and saying, “After the way Tor spoke to me the other day I’m literally gobsmacked…” Other messages refer to “Sisi or Tor” and describe CG’s response in abusive terms.<br><br>CG records the spelling “Tor” because the same spelling later appeared in a BarnacleBuster26 post naming CG. CG says this was significant because her challenge to AV appeared to be reframed as abusive or improper, when CG’s concern was that AV’s public position had changed in a way that could be used against SW.</td>
     <td>Private correspondence</td>
     <td>Available on request</td>
   </tr>
@@ -1002,13 +1002,13 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>19 May 2026</td>
-    <td>On 19 May 2026, SW was arrested and taken to St Maryâ€™s Wharf Police Station over an allegation of harassment involving HCP. The allegation related to messages from 29 March 2026.<br><br>SWâ€™s concern is that police treated selected messages from one continuous exchange as harassment while omitting HCPâ€™s side of the exchange and the wider SunnyDaze/private-material context.<br><br>CG records that SW was arrested by plain-clothes/CID officers in an unmarked car. SW says she was physically restrained with her hands behind her back, had to ask to sit on the bonnet of her car, and had to insist on being allowed to use her walking stick. SW says she had to point officers to her disability badge and insist that they recognise she was disabled.<br><br>CG links this to earlier safeguarding and reasonable-adjustment warnings. Before this arrest, police had already been told in writing that SW required intermediary support and careful communication, and CG had warned that treating disability-related distress or refusal to engage without adjustments as non-cooperation created safeguarding risk.<br><br>The arresting officers have not yet been identified from the material checked. The later custody incident names Sgt Bunn, but that is currently evidence of the officer involved after interview, not the arresting officer.</td>
+    <td>On 19 May 2026, SW was arrested and taken to St Mary’s Wharf Police Station over an allegation of harassment involving HCP. The allegation related to messages from 29 March 2026.<br><br>SW’s concern is that police treated selected messages from one continuous exchange as harassment while omitting HCP’s side of the exchange and the wider SunnyDaze/private-material context.<br><br>CG records that SW was arrested by plain-clothes/CID officers in an unmarked car. SW says she was physically restrained with her hands behind her back, had to ask to sit on the bonnet of her car, and had to insist on being allowed to use her walking stick. SW says she had to point officers to her disability badge and insist that they recognise she was disabled.<br><br>CG links this to earlier safeguarding and reasonable-adjustment warnings. Before this arrest, police had already been told in writing that SW required intermediary support and careful communication, and CG had warned that treating disability-related distress or refusal to engage without adjustments as non-cooperation created safeguarding risk.<br><br>The arresting officers have not yet been identified from the material checked. The later custody incident names Sgt Bunn, but that is currently evidence of the officer involved after interview, not the arresting officer.</td>
     <td>SW account</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>19-20 May 2026</td>
-    <td>On 19-20 May 2026, SW was held at St Maryâ€™s Wharf after interview. She understood that she was due to be released or bailed.<br><br>The working JR material says SW was then held at the custody desk, in front of cameras, while a police sergeant read aloud six NFA closure letters about stalking and harassment reports she had made. SW says she asked for this not to be done publicly. Reporter-friendly quotes from the material include â€œhave you got enough yet?â€ and â€œ136 herâ€.<br><br>SW says the incident triggered a PTSD episode and police then concluded she should be admitted under the Mental Health Act.</td>
+    <td>On 19-20 May 2026, SW was held at St Mary’s Wharf after interview. She understood that she was due to be released or bailed.<br><br>The working JR material says SW was then held at the custody desk, in front of cameras, while a police sergeant read aloud six NFA closure letters about stalking and harassment reports she had made. SW says she asked for this not to be done publicly. Reporter-friendly quotes from the material include “have you got enough yet?” and “136 her”.<br><br>SW says the incident triggered a PTSD episode and police then concluded she should be admitted under the Mental Health Act.</td>
     <td>Custody/interview/BWV</td>
     <td>Discussable off the record</td>
   </tr>
@@ -1074,7 +1074,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>8 Jun 2026</td>
-    <td>On 8 June 2026, DI Hopkins emailed SW about occurrence 26000286962. He said he had not received the information he had asked for about contacts, likes and comments involving wendybooker226, and said he would file the crime pending further information if it was not received by 15 June.<br><br>SW says this was not the same as taking a formal evidential statement or giving her an Axon or other secure upload route. By this point, SWâ€™s phone had already been seized after the 19 May arrest.</td>
+    <td>On 8 June 2026, DI Hopkins emailed SW about occurrence 26000286962. He said he had not received the information he had asked for about contacts, likes and comments involving wendybooker226, and said he would file the crime pending further information if it was not received by 15 June.<br><br>SW says this was not the same as taking a formal evidential statement or giving her an Axon or other secure upload route. By this point, SW’s phone had already been seized after the 19 May arrest.</td>
     <td>Police email/correspondence</td>
     <td>Available on request</td>
   </tr>
@@ -1098,7 +1098,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>9 Jun 2026</td>
-    <td>On 9 June 2026, the Office of the Police and Crime Commissioner sent SW a response from Commissioner Nicolle Ndiweni-Roberts.<br><br>The response said SWâ€™s concerns had been treated as formal casework and that the Commissioner had contacted the Chief Constableâ€™s office for an update. It also said similar themes had been raised by other women ahead of the Public Assurance Meeting.</td>
+    <td>On 9 June 2026, the Office of the Police and Crime Commissioner sent SW a response from Commissioner Nicolle Ndiweni-Roberts.<br><br>The response said SW’s concerns had been treated as formal casework and that the Commissioner had contacted the Chief Constable’s office for an update. It also said similar themes had been raised by other women ahead of the Public Assurance Meeting.</td>
     <td>Official correspondence</td>
     <td>Available on request</td>
   </tr>
@@ -1110,7 +1110,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>10 Jun 2026</td>
-    <td>On 10 June 2026, BarnacleBuster26 published a smear-content post naming CG. The post used the spelling â€œTorâ€, the same spelling CG records AV using for her name in messages on 12 May.<br><br>CG records this as the point when she suspected AV was connected to the account.</td>
+    <td>On 10 June 2026, BarnacleBuster26 published a smear-content post naming CG. The post used the spelling “Tor”, the same spelling CG records AV using for her name in messages on 12 May.<br><br>CG records this as the point when she suspected AV was connected to the account.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://www.tiktok.com/@barnaclebuster26/video/7649838801178660118?lang=en-GB" target="_blank" rel="noopener">Open post</a></span></td>
     <td>Available on request</td>
   </tr>
@@ -1122,7 +1122,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>18 Jun 2026</td>
-    <td>On 18 June 2026, Derbyshire Police contacted CG. CG records that PC Bray told her police had filed SWâ€™s report about AV and had accidentally given AV the crime number connected with that report.<br><br>CG records this as a police-process concern because the person SW had reported was apparently given the crime number for that report.</td>
+    <td>On 18 June 2026, Derbyshire Police contacted CG. CG records that PC Bray told her police had filed SW’s report about AV and had accidentally given AV the crime number connected with that report.<br><br>CG records this as a police-process concern because the person SW had reported was apparently given the crime number for that report.</td>
     <td>Police email/correspondence</td>
     <td>Available on request</td>
   </tr>
@@ -1134,19 +1134,19 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>20 Jun 2026</td>
-    <td>On 20 June 2026, TJB emailed Catherine Atkinson MP and Baggy Shanker MP, copying JFS, raising concerns that Derbyshire Police were treating connected reports as isolated matters rather than recognising a wider pattern of targeting and harassment.<br><br>CG records this as part of the local-stakeholder escalation strand before Baggy Shankerâ€™s scheduled meeting with the Chief Constable on 22 June.</td>
+    <td>On 20 June 2026, TJB emailed Catherine Atkinson MP and Baggy Shanker MP, copying JFS, raising concerns that Derbyshire Police were treating connected reports as isolated matters rather than recognising a wider pattern of targeting and harassment.<br><br>CG records this as part of the local-stakeholder escalation strand before Baggy Shanker’s scheduled meeting with the Chief Constable on 22 June.</td>
     <td>Official correspondence</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>20 Jun 2026</td>
-    <td>A screenshot shows AMT saying she had closed accounts down because she had been â€œmanipulated and lied toâ€ and saying she could not be connected to anybody with â€œa history of child abuse and neglect.â€ AMT had until recently been part of CGâ€™s grassroots organisation.<br><br>AMT then left CGâ€™s grassroots organisation citing the same or similar allegations. CG is concerned that this shows the practical effect of serious allegations being circulated into her organisation and support network before they had been tested through any proper process.</td>
+    <td>A screenshot shows AMT saying she had closed accounts down because she had been “manipulated and lied to” and saying she could not be connected to anybody with “a history of child abuse and neglect.” AMT had until recently been part of CG’s grassroots organisation.<br><br>AMT then left CG’s grassroots organisation citing the same or similar allegations. CG is concerned that this shows the practical effect of serious allegations being circulated into her organisation and support network before they had been tested through any proper process.</td>
     <td>Private correspondence</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>20-22 Jun 2026</td>
-    <td>Between 20 and 22 June 2026, CG had an email exchange with AMT after AMT repeated serious allegations and concerns connected to CGâ€™s grassroots organisation and people around SW.<br><br>This included allegations of child abuse or neglect being repeated outside a proper process. CG asked what direct evidence AMT had for such serious allegations. CG is concerned this shows serious allegations circulating through people connected to the same dispute.</td>
+    <td>Between 20 and 22 June 2026, CG had an email exchange with AMT after AMT repeated serious allegations and concerns connected to CG’s grassroots organisation and people around SW.<br><br>This included allegations of child abuse or neglect being repeated outside a proper process. CG asked what direct evidence AMT had for such serious allegations. CG is concerned this shows serious allegations circulating through people connected to the same dispute.</td>
     <td>Private correspondence</td>
     <td>Available on request</td>
   </tr>
@@ -1158,31 +1158,31 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>22 Jun 2026</td>
-    <td>Baggy Shanker MPâ€™s office confirmed that Baggy would be meeting with the Chief Constable on 22 June 2026, after CG attended an advice surgery to discuss concerns about Derbyshire Constabulary.<br><br>CG records that the concerns included what was happening to SW and followed multiple earlier attempts to raise concerns with local stakeholders.<br><br>Later that evening, Derbyshire Police called CG before attending SWâ€™s home. CG then went to SWâ€™s home and recorded the arrest footage.</td>
+    <td>Baggy Shanker MP’s office confirmed that Baggy would be meeting with the Chief Constable on 22 June 2026, after CG attended an advice surgery to discuss concerns about Derbyshire Constabulary.<br><br>CG records that the concerns included what was happening to SW and followed multiple earlier attempts to raise concerns with local stakeholders.<br><br>Later that evening, Derbyshire Police called CG before attending SW’s home. CG then went to SW’s home and recorded the arrest footage.</td>
     <td>Official correspondence</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>22 Jun 2026 / posted 23 Jun 2026</td>
-    <td>On 22 June 2026, police first called CG saying SW had attempted to kill herself and that they needed to enter her home. CG told them that was not true and that she would not give them grounds to enter as she knew SW was fine.<br><br>When CG arrived, SW was screaming at police from inside the house. CG says officers had been banging on windows and doors and shining lights in to get SW to answer the door, triggering SWâ€™s cPTSD. Police then called for more officers.<br><br>CG heard officers discussing outstanding matters. The footage records an officer saying they were waiting for an arrest warrant and another officer discussing whether the matter could be dealt with by voluntary interview. Police entered and arrested SW. CG published video of the arrest on 23 June to counter the narrative being circulated while SW was in custody.</td>
+    <td>On 22 June 2026, police first called CG saying SW had attempted to kill herself and that they needed to enter her home. CG told them that was not true and that she would not give them grounds to enter as she knew SW was fine.<br><br>When CG arrived, SW was screaming at police from inside the house. CG says officers had been banging on windows and doors and shining lights in to get SW to answer the door, triggering SW’s cPTSD. Police then called for more officers.<br><br>CG heard officers discussing outstanding matters. The footage records an officer saying they were waiting for an arrest warrant and another officer discussing whether the matter could be dealt with by voluntary interview. Police entered and arrested SW. CG published video of the arrest on 23 June to counter the narrative being circulated while SW was in custody.</td>
     <td>Public post/video<br><span class="evidence-links"><a href="https://youtu.be/nX2R8S0spbE" target="_blank" rel="noopener">Open video</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
     <td>22 Jun 2026</td>
-    <td>After arresting SW on 22 June 2026, police charged her with further alleged offences.<br><br>The allegations related to two videos concerning HCP and one video concerning MARAC. CG says the videos also used the word â€œstalkingâ€.</td>
+    <td>After arresting SW on 22 June 2026, police charged her with further alleged offences.<br><br>The allegations related to two videos concerning HCP and one video concerning MARAC. CG says the videos also used the word “stalking”.</td>
     <td>Police disclosure</td>
     <td>Discussable on background</td>
   </tr>
   <tr>
     <td>23 Jun 2026</td>
-    <td>On 23 June 2026, a preserved BarnacleBuster26 post directly named â€œTJB, Tor, Alfieâ€ and stated: â€œYou use other people (TJB, Tor, Alfie) to join in with your abuse and bullying.â€<br><br>CG records concern because she was being directly named in online material connected to SW and the wider dispute. The same â€œTorâ€ spelling had appeared in AVâ€™s 12 May messages and in the 10 June BarnacleBuster26 post.</td>
+    <td>On 23 June 2026, a preserved BarnacleBuster26 post directly named “TJB, Tor, Alfie” and stated: “You use other people (TJB, Tor, Alfie) to join in with your abuse and bullying.”<br><br>CG records concern because she was being directly named in online material connected to SW and the wider dispute. The same “Tor” spelling had appeared in AV’s 12 May messages and in the 10 June BarnacleBuster26 post.</td>
     <td>Public post/video</td>
     <td>Available on request</td>
   </tr>
   <tr>
     <td>24 Jun 2026</td>
-    <td>On 24 June 2026, a screenshot shows AV contacting someone who had commented on TJBâ€™s post about SW.<br><br>AV states that â€œitâ€™s all liesâ€, says SW â€œwas arrested for harassmentâ€, says SW â€œis the stalkerâ€, and says she is a witness against SW in court. CG is concerned that AV was directly contacting people around this situation to make serious claims and influence their understanding.</td>
+    <td>On 24 June 2026, a screenshot shows AV contacting someone who had commented on TJB’s post about SW.<br><br>AV states that “it’s all lies”, says SW “was arrested for harassment”, says SW “is the stalker”, and says she is a witness against SW in court. CG is concerned that AV was directly contacting people around this situation to make serious claims and influence their understanding.</td>
     <td>Private correspondence</td>
     <td>Available on request</td>
   </tr>
@@ -1194,7 +1194,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   </tr>
   <tr>
     <td>7 Jul 2026</td>
-    <td>On 6 July 2026, SW was arrested or questioned after CG sent a message to IU leadership, not AV directly.<br><br>CG says the message largely addressed serious allegations being spread without evidence, and the use of claims from HCP, SWâ€™s former partner and his partner as justification for harassing members of CGâ€™s grassroots organisation. She sent evidence to show that SW was not lying, asked IU leadership to stop repeating serious allegations for which CG says they had no proof, and asked them to show evidence of CGâ€™s alleged involvement and of the allegation that CG had been racist.<br><br>Police treated the message as possible wrongdoing by SW, on the basis that SW may have directed CG to send it. CGâ€™s position is that neither CG nor the people she contacted were covered by the relevant court conditions.<br><br>Police also questioned how CG could have access to the evidence. SWâ€™s response was that CG had sent police the same evidence independently before, and that DI Remy Hopkins had refused to take it because police said they could not tell whether it had come from SW and that this could mean SWâ€™s email was compromised.<br><br>The matter was NFAâ€™d for lack of evidence.</td>
+    <td>On 6 July 2026, SW was arrested or questioned after CG sent a message to IU leadership, not AV directly.<br><br>CG says the message largely addressed serious allegations being spread without evidence, and the use of claims from HCP, SW’s former partner and his partner as justification for harassing members of CG’s grassroots organisation. She sent evidence to show that SW was not lying, asked IU leadership to stop repeating serious allegations for which CG says they had no proof, and asked them to show evidence of CG’s alleged involvement and of the allegation that CG had been racist.<br><br>Police treated the message as possible wrongdoing by SW, on the basis that SW may have directed CG to send it. CG’s position is that neither CG nor the people she contacted were covered by the relevant court conditions.<br><br>Police also questioned how CG could have access to the evidence. SW’s response was that CG had sent police the same evidence independently before, and that DI Remy Hopkins had refused to take it because police said they could not tell whether it had come from SW and that this could mean SW’s email was compromised.<br><br>The matter was NFA’d for lack of evidence.</td>
     <td>SW account</td>
     <td>Discussable on background</td>
   </tr>

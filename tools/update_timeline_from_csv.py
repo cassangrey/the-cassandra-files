@@ -52,8 +52,17 @@ Where a record is legally restricted, the dated row is retained but the descript
 """
 
 
+def repair_mojibake(value: str) -> str:
+    if not any(marker in value for marker in ("â", "Ã", "Â")):
+        return value
+    try:
+        return value.encode("cp1252").decode("utf-8")
+    except UnicodeError:
+        return value
+
+
 def norm(value: str | None) -> str:
-    return (value or "").strip()
+    return repair_mojibake(value or "").strip()
 
 
 def first_value(row: dict[str, str], *names: str) -> str:
@@ -65,6 +74,7 @@ def first_value(row: dict[str, str], *names: str) -> str:
 
 
 def cell(value: str) -> str:
+    value = repair_mojibake(value)
     escaped = html.escape(value, quote=False)
     return escaped.replace("\r\n", "\n").replace("\r", "\n").replace("\n\n", "<br><br>").replace("\n", "<br>")
 
