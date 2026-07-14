@@ -31,6 +31,16 @@ URL_RE = re.compile(r"https?://[^\s;,)]+")
 IMAGE_PATH_RE = re.compile(r"(?P<path>(?:[A-Za-z]:)?[^;\r\n]+?\.(?:png|jpe?g|webp))", re.IGNORECASE)
 CHILD_REFERENCE_RE = re.compile(r"\b(?:SRB|child|daughter)\b", re.IGNORECASE)
 PUBLIC_SCREENSHOT_DIR = Path("docs/evidence/public-post-screenshots")
+LOCAL_EVIDENCE_LINKS = (
+    (
+        {"date": "Before 11 Nov 2025 / date TBC", "text": "lender cam"},
+        "../evidence/2025-11-08-sally-forder-clarification-redacted.pdf",
+    ),
+    (
+        {"date": "11 Nov 2025", "text": "cat Charlie died"},
+        "../evidence/2025-11-08-sianne-crying-about-cat-video.mp4",
+    ),
+)
 WORKSPACE_ROOT = Path.cwd().parents[1] if Path.cwd().name == "site" and len(Path.cwd().parents) > 1 else Path.cwd()
 
 INTRO = """# The record
@@ -237,7 +247,6 @@ def render_table(rows: list[dict[str, str]], limit: int | None = None) -> str:
         body.append(f"    <td>{cell(wording)}</td>")
         body.append(f"    <td>{evidence_cell(evidence_item, links)}</td>")
         body.append(f"    <td>{cell(evidence_access)}</td>")
-        body.append(f"    <td>{cell(display_publication(publication))}</td>")
         body.append("  </tr>")
         count += 1
         if limit is not None and count >= limit:
@@ -251,7 +260,6 @@ def render_table(rows: list[dict[str, str]], limit: int | None = None) -> str:
         '      <th>Record</th>',
         '      <th>Evidence item</th>',
         '      <th>Evidence access</th>',
-        '      <th>Publication level</th>',
         '    </tr>',
         '  </thead>',
         '  <tbody>',
