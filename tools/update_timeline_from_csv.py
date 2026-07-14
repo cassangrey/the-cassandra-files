@@ -33,7 +33,7 @@ CHILD_REFERENCE_RE = re.compile(r"\b(?:SRB|child|daughter)\b", re.IGNORECASE)
 PUBLIC_SCREENSHOT_DIR = Path("docs/evidence/public-post-screenshots")
 LOCAL_EVIDENCE_LINKS = (
     (
-        {"date": "Before 11 Nov 2025 / date TBC", "text": "lender cam"},
+        {"date": "18 Nov 2022", "text": "Social Care confirmed"},
         "../evidence/2025-11-08-sally-forder-clarification-redacted.pdf",
     ),
     (

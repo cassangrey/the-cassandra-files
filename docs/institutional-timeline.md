@@ -1,4 +1,4 @@
-﻿# The record
+# The record
 
 This chronology is a public-facing version of a larger evidence record. It is being published in stages as material is reviewed, redacted and checked for legal safety.
 
@@ -61,7 +61,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   <tr>
     <td>18 Nov 2022</td>
     <td>On 18 November 2022, Childrenâ€™s Social Care confirmed in an email that SRB had not been removed from SWâ€™s care by social services.<br><br>The email also stated that, following later review, SRB should be in SWâ€™s care under the previous court order.</td>
-    <td>Official correspondence<br><span class="evidence-links"><a href="evidence/2022-11-18-social-care-clarification-redacted.pdf" target="_blank" rel="noopener">Open redacted PDF</a></span></td>
+    <td>Official correspondence<br><span class="evidence-links"><a href="evidence/2025-11-08-sally-forder-clarification-redacted.pdf" target="_blank" rel="noopener">Open redacted PDF</a></span></td>
     <td>Public</td>
   </tr>
   <tr>
@@ -373,7 +373,7 @@ The aim is to preserve the shape of the chronology while publishing only what ca
   <tr>
     <td>Before 11 Nov 2025 / date TBC</td>
     <td>Before the later cat video was used against SW, she had already raised concerns that her cat was repeatedly coming home with different collars and injuries.<br><br>The SAR/police process refers to this being raised in a community liaison context at the Guinness Trust, after which a lender cam was put up. This matters because it gives a separate welfare and safety reason for why a camera existed before the later public video about Charlieâ€™s death was used against SW.</td>
-    <td>Police disclosure<br><span class="evidence-links"><a href="evidence/2025-11-08-sally-forder-clarification-redacted.pdf" target="_blank" rel="noopener">Open redacted PDF</a></span></td>
+    <td>Police disclosure</td>
     <td>Held; legally restricted</td>
   </tr>
   <tr>
