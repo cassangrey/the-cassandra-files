@@ -623,6 +623,12 @@ The aim is to preserve the shape of the chronology while publishing only what ca
     <td>Discussable on background</td>
   </tr>
   <tr>
+    <td>23 Jan 2026</td>
+    <td>David Ring, Derbyshire Police Legal Services, emailed SW confirming that several investigations remained open in which SW’s former partner was named in relation to stalking/coercive control, malicious communications, and historical sexual allegations.<br><br>The email also said police could confirm the status of allegations between the parties to the court when relevant.</td>
+    <td>Derbyshire Police Legal Services email<br><span class="evidence-links"><a href="evidence/2026-01-23-police-legal-services-open-investigations-redacted.pdf" target="_blank" rel="noopener">Open redacted PDF</a></span></td>
+    <td>Public</td>
+  </tr>
+  <tr>
     <td>3 Feb 2026</td>
     <td>On 3 February 2026, the 17 December harassment report by SW's former partner was allocated to PC Holly Whitford-Hughes.<br><br>PC Whitford-Hughes recorded an intention to complete safeguarding, obtain a statement and evidence, and locate, arrest and interview SW.</td>
     <td>Police disclosure</td>

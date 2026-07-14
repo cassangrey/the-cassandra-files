@@ -13,7 +13,7 @@ import re
 import shutil
 from pathlib import Path
 
-ACCESS_DO_NOT_PUBLISH = {"Do not publish"}
+ACCESS_DO_NOT_PUBLISH = set()
 ACCESS_BLANK_DESCRIPTION = {
     "Legally restricted",
     "Legally restricted: TBC",
@@ -26,7 +26,7 @@ PSEUDONYMOUS_PUBLIC_HANDLES = {
     "sunny.daze184",
     "tom.tank0",
 }
-SITE_FILE_RE = re.compile(r"SITE FILE:\s*([^\r\n]+)")
+SITE_FILE_RE = re.compile(r"(?:SITE FILE|WEBSITE UPLOAD FILE):\s*([^\r\n]+)")
 URL_RE = re.compile(r"https?://[^\s;,)]+")
 IMAGE_PATH_RE = re.compile(r"(?P<path>(?:[A-Za-z]:)?[^;\r\n]+?\.(?:png|jpe?g|webp))", re.IGNORECASE)
 CHILD_REFERENCE_RE = re.compile(r"\b(?:SRB|child|daughter)\b", re.IGNORECASE)
@@ -34,11 +34,15 @@ PUBLIC_SCREENSHOT_DIR = Path("docs/evidence/public-post-screenshots")
 LOCAL_EVIDENCE_LINKS = (
     (
         {"date": "18 Nov 2022", "text": "Social Care confirmed"},
-        "../evidence/2025-11-08-sally-forder-clarification-redacted.pdf",
+        "evidence/2025-11-08-sally-forder-clarification-redacted.pdf",
     ),
     (
         {"date": "11 Nov 2025", "text": "cat Charlie died"},
-        "../evidence/2025-11-08-sianne-crying-about-cat-video.mp4",
+        "evidence/2025-11-08-sianne-crying-about-cat-video.mp4",
+    ),
+    (
+        {"date": "23 Jan 2026", "text": "David Ring"},
+        "evidence/2026-01-23-police-legal-services-open-investigations-redacted.pdf",
     ),
 )
 WORKSPACE_ROOT = Path.cwd().parents[1] if Path.cwd().name == "site" and len(Path.cwd().parents) > 1 else Path.cwd()
@@ -53,7 +57,8 @@ Where a record is legally restricted, the dated row is retained but the descript
 
 
 def repair_mojibake(value: str) -> str:
-    if not any(marker in value for marker in ("â", "Ã", "Â")):
+    markers = tuple(chr(code) for code in (0x00E2, 0x00C3, 0x00C2))
+    if not any(marker in value for marker in markers):
         return value
     try:
         return value.encode("cp1252").decode("utf-8")
@@ -83,10 +88,10 @@ def site_file_href(raw_path: str) -> str:
     path = raw_path.strip().replace("\\", "/")
     marker = "Restricted Evidence Portal/site/docs/"
     if marker in path:
-        return "../" + path.split(marker, 1)[1]
+        return path.split(marker, 1)[1]
     docs_marker = "docs/"
     if path.startswith(docs_marker):
-        return "../" + path.split(docs_marker, 1)[1]
+        return path.split(docs_marker, 1)[1]
     return path
 
 
@@ -164,6 +169,25 @@ def has_pseudonymous_live_url(source: str) -> bool:
     return any(handle in lower for handle in PSEUDONYMOUS_PUBLIC_HANDLES)
 
 
+def local_evidence_links(row: dict[str, str]) -> list[str]:
+    haystack = " ".join(
+        norm(row.get(name))
+        for name in (
+            "Date",
+            "Incident",
+            "Public wording",
+            "Website wording",
+            "Source / verification",
+        )
+    ).lower()
+    links: list[str] = []
+    for criteria, href in LOCAL_EVIDENCE_LINKS:
+        date = criteria.get("date", "").lower()
+        text = criteria.get("text", "").lower()
+        if date in haystack and text in haystack:
+            links.append(href)
+    return links
+
 def should_publish_live_url(row: dict[str, str], evidence_access: str) -> bool:
     if evidence_access.strip().lower() in PUBLIC_EVIDENCE_ACCESS:
         return True
@@ -186,6 +210,7 @@ def public_evidence_links(row: dict[str, str], row_index: int, evidence_access: 
         return []
 
     links: list[str] = public_screenshot_links(row, row_index, evidence_access)
+    links.extend(local_evidence_links(row))
 
     for match in SITE_FILE_RE.finditer(source):
         links.append(site_file_href(match.group(1)))
@@ -230,6 +255,8 @@ def display_publication(access: str) -> str:
 
 def wording_for(row: dict[str, str]) -> str:
     publication = norm(row.get("Access / publication decision"))
+    if publication == "Do not publish":
+        return ""
     if is_blank_description(publication):
         return ""
     return norm(row.get("Website wording"))
@@ -240,9 +267,6 @@ def render_table(rows: list[dict[str, str]], limit: int | None = None) -> str:
     count = 0
     for row in rows:
         publication = norm(row.get("Access / publication decision"))
-        if publication in ACCESS_DO_NOT_PUBLISH:
-            continue
-
         date = norm(row.get("Date"))
         if not date:
             continue
@@ -250,6 +274,9 @@ def render_table(rows: list[dict[str, str]], limit: int | None = None) -> str:
         wording = wording_for(row)
         evidence_item = first_value(row, "Public evidence item", "Website evidence status")
         evidence_access = first_value(row, "Evidence access", "Evidence access route")
+        if publication == "Do not publish":
+            evidence_item = "Evidence restricted"
+            evidence_access = "Evidence restricted"
         links = public_evidence_links(row, count + 1, evidence_access)
 
         body.append("  <tr>")
