@@ -1,0 +1,199 @@
+:root {
+  --md-primary-fg-color: #596273;
+  --md-primary-fg-color--dark: #3f4654;
+  --md-primary-bg-color: #f2f2f1;
+  --md-accent-fg-color: #6f5a67;
+  --portal-bg: #e6e6e3;
+  --portal-surface: #f4f4f2;
+  --portal-surface-alt: #e9e9e6;
+  --record-border: #9a9a96;
+  --record-header-bg: #d7d7d3;
+  --record-text: #242424;
+  --record-muted: #4f4f4b;
+  --record-heading: #1e1e1c;
+  --record-link: #4f6178;
+  --portal-nav: #596273;
+}
+
+body,
+.md-main {
+  background: var(--portal-bg);
+}
+
+.md-header,
+.md-tabs {
+  background: var(--portal-nav);
+}
+
+.md-typeset {
+  color: var(--record-text);
+}
+
+.md-typeset a {
+  color: var(--record-link);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--record-heading);
+}
+
+.md-typeset h1 {
+  margin-bottom: 0.5rem;
+}
+
+/* Site shell: top navigation only, with readable prose by default. */
+.md-grid {
+  max-width: none;
+}
+
+.md-main__inner {
+  display: block;
+  margin: 0;
+}
+
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  display: none;
+}
+
+.md-content {
+  max-width: none;
+}
+
+.md-content__inner {
+  box-sizing: border-box;
+  width: min(100% - 3rem, 46rem);
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1.4rem 0 2.4rem;
+}
+
+.md-content__inner::before {
+  display: none;
+}
+
+/* The record page widens only when it contains the evidence table. */
+.md-content__inner:has(.record-table) {
+  width: min(100% - 3rem, 86rem);
+  max-width: 86rem;
+}
+
+.record-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 0.72rem;
+  line-height: 1.45;
+  color: var(--record-text);
+  background: var(--portal-surface);
+  border: 1px solid var(--record-border);
+}
+
+.record-table th,
+.record-table td {
+  border: 1px solid var(--record-border);
+  padding: 0.55rem 0.65rem;
+  vertical-align: top;
+}
+
+.record-table th {
+  position: sticky;
+  top: 2.4rem;
+  z-index: 2;
+  background: var(--record-header-bg);
+  color: var(--record-heading);
+  font-weight: 700;
+  text-align: left;
+}
+
+.record-table tbody tr:nth-child(even) {
+  background: var(--portal-surface-alt);
+}
+
+.record-table th:nth-child(1),
+.record-table td:nth-child(1) {
+  width: 10rem;
+  font-weight: 650;
+}
+
+.record-table th:nth-child(2),
+.record-table td:nth-child(2) {
+  width: auto;
+}
+
+.record-table th:nth-child(3),
+.record-table td:nth-child(3) {
+  width: 14rem;
+  color: var(--record-muted);
+}
+
+.record-table th:nth-child(4),
+.record-table td:nth-child(4) {
+  width: 10rem;
+  color: var(--record-muted);
+}
+
+.md-typeset .record-table {
+  margin-top: 1rem;
+}
+
+@media screen and (max-width: 76rem) {
+  .md-content__inner,
+  .md-content__inner:has(.record-table) {
+    width: calc(100% - 1rem);
+    max-width: none;
+    padding: 1rem 0 2rem;
+  }
+
+  .md-content__inner:has(.record-table) {
+    overflow-x: auto;
+  }
+
+  .record-table {
+    min-width: 980px;
+  }
+
+  .record-table th {
+    top: 0;
+  }
+}
+/* Remove Material's generated in-page table of contents from the portal layout. */
+.md-sidebar--secondary,
+.md-nav--secondary,
+.md-nav__title[for="__toc"],
+[data-md-component="toc"] {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+.md-content__inner {
+  clear: both;
+}
+
+.record-table .evidence-links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-top: 0.25rem;
+}
+
+.record-table .evidence-links a {
+  display: inline-block;
+  border: 1px solid #7e8796;
+  background: #ececea;
+  color: #32445c;
+  padding: 0.08rem 0.35rem;
+  text-decoration: none;
+  font-weight: 650;
+}
+
+.record-table .evidence-links a:hover,
+.record-table .evidence-links a:focus {
+  background: #dfe4e8;
+  text-decoration: underline;
+}
+[data-md-component="search"] {
+  display: none !important;
+}
